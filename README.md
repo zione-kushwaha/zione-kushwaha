@@ -87,7 +87,7 @@
 ---
 
 <div align="center">
-  <h3>🎉 Fun Animation:</h3>
+  <h3>🎉 Profile Still building</h3>
   <img src="https://i.gifer.com/ZZ5H.gif" alt="Fun Animation" width="200" height="200" />
 </div>
 
