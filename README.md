@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zione-kushwaha&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 
-- 🔭 I’m currently working on **Mind Bridge (An app for children with dylexia )**  
+- 🔭 I’m currently working on **Mind Bridge (An app for children with dyslexia )**  
 - 🌱 I’m currently learning **Machine Learning and FastAPI**  
 - 💬 Ask me about **Flutter, App Development, or Backend APIs**  
 - 👨‍💻 Check out my work on [Google Play Store](https://play.google.com/store/apps/details?id=com.attendance.project)  
