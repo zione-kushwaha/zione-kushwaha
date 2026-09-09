@@ -95,3 +95,20 @@
 ---
 
 ⭐ **Feel free to reach out and let's code something awesome together!**
+
+
+---
+
+## 🎖️ GitHub Achievements & Badges Showcase
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark (x2 Tier)" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zione-kushwaha&theme=algolia&column=6&margin-w=10" alt="Trophies" />
+</p>
