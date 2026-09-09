@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2D3&center=true&width=700&lines=🏆+ICT+Award+2025+Winner+(Raising+Star+Innovation);📱+6%2B+Published+Apps+on+Google+Play+Store;🔬+Author+of+Selective+Machine+Unlearning+(ICRTAI+2025);🚀+Co-Founder+at+Mind+Bridge+(EdTech+%26+AR);Let's+build+transformative+intelligent+software!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2D3&center=true&width=700&lines=🏆+ICT+Award+2025+Winner+(Raising+Star+Innovation);📱+6%2B+Published+Apps+on+Google+Play+Store;🔬+Author+of+Selective+Machine+Unlearning+(ICRTAI+2025);🚀+Co-Founder+at+Mind+Bridge+(EdTech+%26+AR);Let's+build+transformative+intelligent+software!" alt="Typing SVG" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 
 ---
 
-### 🎖️ GitHub Achievements & Badges
+### 🎖️ GitHub Achievements Showcase
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark (x2 Tier)" />
@@ -95,27 +95,6 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" alt="Galaxy Brain" title="Galaxy Brain" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-</p>
-
----
-
-### 🏆 Dynamic Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zione-kushwaha&theme=tokyonight&column=6&margin-w=10" alt="Developer Trophies" />
-</p>
-
----
-
-### 📊 Activity & Community Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zione-kushwaha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zione-kushwaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zione-kushwaha&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
