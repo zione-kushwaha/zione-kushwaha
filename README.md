@@ -15,10 +15,6 @@
   <img src="https://github.com/zione-kushwaha/zione-kushwaha/blob/main/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2D3&center=true&width=700&lines=🏆+ICT+Award+2025+Winner+(Raising+Star+Innovation);📱+6%2B+Published+Apps+on+Google+Play+Store;🔬+Author+of+Selective+Machine+Unlearning+(ICRTAI+2025);🚀+Co-Founder+at+Mind+Bridge+(EdTech+%26+AR);Let's+build+transformative+intelligent+software!" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌟 Executive Highlights
